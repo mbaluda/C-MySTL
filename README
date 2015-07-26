@@ -1,0 +1,3 @@
+An exercise in C++ template programming.
+
+The library duplicates parts of the Standard Template Library mimicking the behavior of some of it’s containers, iterators and generic algorithms.
